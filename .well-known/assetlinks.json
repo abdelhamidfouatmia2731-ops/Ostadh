@@ -1,8 +1,14 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.abdelhamidfouatmia2731_ops.twa",
-    "sha256_cert_fingerprints": ["SHA-256"]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.abdelhamidfouatmia2731_ops.twa",
+      "sha256_cert_fingerprints": [
+        "7F:A4:8D:A8:EE:A5:9E:0D:55:54:85:D6:BA:06:55:14:34:1A:B0:3E:A5:3D:A5:25:DC:2B:BA:30:93:94:E2:63"
+      ]
+    }
   }
-}]
+]
