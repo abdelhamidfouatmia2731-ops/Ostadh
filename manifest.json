@@ -9,5 +9,13 @@
   "start_url": "/",
   "theme_color": "#ffffff",
   "id": "/index.html",
-  "description": "تطبيق شامل لإدارة الأقسام المتابعة البيداغوجية والغيابات للأساتذة"
+  "description": "تطبيق شامل لإدارة الأقسام المتابعة البيداغوجية والغيابات للأساتذة",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/512",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
 }
